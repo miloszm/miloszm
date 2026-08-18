@@ -1,11 +1,11 @@
 ## Milosz Muszynski
 
 Blockchain Rust developer, focusing on:
+- smart contract virtual machines
+- blockchain state management
 - distributed computing
 - consensus
 - async Rust 
-- smart contract virtual machines
-- blockchain state management
 - Wasm
  
 Interested in all things blockchain and all things Rust.
