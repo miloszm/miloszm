@@ -11,7 +11,7 @@ Blockchain Rust developer, focusing on:
 Interested in all things blockchain and all things Rust.
 Also interested in blockchain cryptography, ZK, ZKVMs.
 
-## Repositories:
+## Repositories
 - **[wasm-kv-db](https://github.com/miloszm/wasm-kv-db)** – A cached key-value database supporting WASM guests (Rust).
 - **[Piecrust](https://github.com/dusk-network/piecrust)** – WASM virtual machine for running Dusk's smart contracts (Property of Dusk Network, Rust).
 - **[zm-wallet-service](https://github.com/miloszm/zm-wallet-service)** – Secure blockchain wallet as a service via HTTPS (Rust).
