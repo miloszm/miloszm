@@ -21,3 +21,10 @@ Also interested in blockchain cryptography, ZK, ZKVMs.
 - **[binglib](https://github.com/miloszm/binglib)** – Bitcoin wallet helper library with focus on CLTV (C++).
 - **[bingdiyi](https://github.com/miloszm/bingdiyi)** –  Testing utilities for the binglib library (C++).
 - **[blockreader](https://github.com/miloszm/blockreader)** –  Tool to show recent Bitcoin blocks and calculate average fee (Scala).
+
+## Blog Posts
+
+Some thoughts on distributed systems:
+
+- [CAP Theorem: Gauges, Binary Switches, and What the Venn Diagram Gets Wrong](https://miloszm.github.io/blockchain/2026/08/18/understanding-cap-theorem.html)
+- [FLP Impossibility Theorem: What It Actually Says and How Blockchains Bypass It](https://miloszm.github.io/blockchain/2026/08/18/FLP-impossibility.html)
